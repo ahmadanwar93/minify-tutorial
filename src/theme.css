@@ -1,0 +1,9 @@
+/* Theme colours */
+:root {
+    --brand: #0a66c2;
+}
+
+.card::before {
+    content: "/* not a comment */";
+    color: var(--brand);
+}

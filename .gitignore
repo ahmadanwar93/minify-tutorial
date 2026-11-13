@@ -1,0 +1,6 @@
+shots/
+node_modules/
+notes.md
+dist/.claude/
+tmp/
+interview-answer.md

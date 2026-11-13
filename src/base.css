@@ -1,0 +1,13 @@
+@import "layout.css";
+@import "theme.css";
+
+/* Base reset: this comment is wasted bytes in production */
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    padding: calc(1px + 2px);
+}

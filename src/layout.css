@@ -1,0 +1,10 @@
+/* Layout */
+.card {
+    max-width: 40rem;
+    margin: 0 auto;
+    background: url("a b.png");
+}
+
+.card :hover {
+    color: blue;
+}

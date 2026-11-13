@@ -1,0 +1,17 @@
+{
+  "name": "minify-tutorial",
+  "version": "1.0.0",
+  "main": "naive-minify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "lightningcss-cli": "^1.33.0"
+  }
+}
