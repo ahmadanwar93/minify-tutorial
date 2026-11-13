@@ -1,6 +1,7 @@
 shots/
 node_modules/
 notes.md
-dist/.claude/
+dist/
+.claude/
 tmp/
 interview-answer.md
